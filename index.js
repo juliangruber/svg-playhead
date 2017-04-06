@@ -7,6 +7,7 @@ module.exports = Playhead
 inherits(Playhead, Component)
 
 function Playhead () {
+  Component.call(this)
   this.height = null
   this.width = null
 }
