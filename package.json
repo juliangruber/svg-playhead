@@ -5,6 +5,7 @@
   "repository": "juliangruber/svg-playhead",
   "description": "Render a playhead element as svg",
   "scripts": {
+    "example": "beefy example.js",
     "test": "prettier-standard-formatter *.js && standard"
   },
   "dependencies": {
@@ -15,8 +16,5 @@
     "browserify": "^14.3.0",
     "prettier-standard-formatter": "^0.222222222222222.333333333333333",
     "standard": "^10.0.0"
-  },
-  "scripts": {
-    "example": "beefy example.js"
   }
 }
