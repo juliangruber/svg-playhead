@@ -1,6 +1,6 @@
 {
   "name": "svg-playhead",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "juliangruber/svg-playhead",
   "description": "Render a playhead element as svg",
