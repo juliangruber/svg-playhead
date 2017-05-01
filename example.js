@@ -1,7 +1,7 @@
 const Playhead = require('.')
 const html = require('bel')
 
-const playhead = new Playhead()
+const playhead = Playhead()
 
 const el = html`
   <svg heigth=600 width=100>

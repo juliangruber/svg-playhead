@@ -11,7 +11,7 @@ Render a playhead element as svg.
 const Playhead = require('svg-playhead')
 const html = require('bel')
 
-const playhead = new Playhead
+const playhead = Playhead()
 
 const el = html`
   <svg heigth=600 width=100>
